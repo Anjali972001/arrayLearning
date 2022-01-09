@@ -42,6 +42,7 @@ public class array1 {
 
         }
          return-1;
+        // here size===num.length
     }
 }
 /*

@@ -44,3 +44,7 @@ public class array1 {
          return-1;
     }
 }
+/*
+take an array as input from the user and then search a given target 'x' and if it is found then print the index
+otherwise return -1.
+ */
